@@ -1,2 +1,1 @@
-# Tindog
-Another Projected completed in class
+TinDog Starting Files
