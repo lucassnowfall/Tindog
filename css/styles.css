@@ -126,6 +126,7 @@ p{
     text-align: center;
   }
   .title-img{
+    width: 100%;
     position: static;
     margin: 0 40px;
     transform: rotate(0deg);
